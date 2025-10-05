@@ -1,0 +1,4 @@
+John,Dee,john.doe@kingchea.com,123-45-6789,1001,5000.00,5200.00
+Jane,Smith,jane.smith@kingchea.com,987-65-4321,1002,3000.00,3100.00
+Alice,Brown,alice.brown@kingchea.com,555-12-3456,1003,4500.50,4700.75
+Bob,Johnson,bob.johnson@kingchea.com,111-22-3333,1004,6000.00,6100.00
